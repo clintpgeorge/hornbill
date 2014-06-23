@@ -1,0 +1,6 @@
+Installed packages: 
+
+1. feedparser: 
+2. pyparsing: easy_install http://cheeseshop.python.org/packages/source/p/pyparsing/pyparsing-1.5.5.tar.gz
+3. lxml 
+
